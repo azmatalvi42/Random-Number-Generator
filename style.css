@@ -1,0 +1,16 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#myButton{
+  font-size: 5em;
+  background-color: black;
+  color: white;
+}
+
+#dice{
+  font-size: 5em;
+  text-align: center;
+  color: red;
+}
